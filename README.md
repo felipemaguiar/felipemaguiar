@@ -1,4 +1,16 @@
-### Hi there 👋
+### Bem vindo ao meu perfil 👋
+
+Meu nome é Felipe Magalhães de Aguiar
+
+- Sou Licenciado em Física;
+- Mestre em Ciência dos Materiais com enfase em Física da Matéria Condensada;
+- Estou no terceiro ano de Engenharia de Software;
+- Estou me desenvolvendo na linguagem JAVA na plataforma Udemy e Alura;
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos;
+
+### Você pode entrar em contato comigo 📫
+
+felipemaguiar@gmail.com
 
 <!--
 **felipemaguiar/felipemaguiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
