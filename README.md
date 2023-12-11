@@ -2,7 +2,7 @@
 
 Meu nome é Felipe Magalhães de Aguiar
 
-- Sou Licenciado em Física;
+- Sou Licenciado em Física 👨‍🏫;
 - Mestre em Ciência dos Materiais com enfase em Física da Matéria Condensada;
 - Estou no terceiro ano de Engenharia de Software;
 - Estou me desenvolvendo na linguagem JAVA na plataforma Udemy e [Alura](https://www.alura.com.br/);
